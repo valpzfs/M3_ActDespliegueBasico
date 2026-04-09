@@ -26,7 +26,8 @@ export default function App() {
         <article className="card card-accent">
           <h2>Entorno actual</h2>
           <p className="badge">{environment}</p>
-          <p>Este valor cambia en cada build y nos ayuda a verificar qué entorno estamos viendo.</p>
+          <p>Este valor cambia en cada build y nos ayuda a verificar qué entorno estamos viendo. Cambio nuevo llevado a cabo por Valeria López Flores A00838648</p>
+          
         </article>
 
         <article className="card">
